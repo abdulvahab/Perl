@@ -1,0 +1,29 @@
+$VAR1 = {
+          'DOB' => '25/07/1981',
+          'Last Name' => 'Kharadi',
+          'Age' => '37',
+          'Saving' => '20000',
+          'First Name' => 'Abdulvahab'
+        };
+$VAR1 = {
+          'DOB' => '05/01/1984',
+          'Age' => '34',
+          'Last Name' => 'Kharadi',
+          'Saving' => '10000',
+          'First Name' => 'Musarratbanu'
+        };
+$VAR1 = {
+          'First Name' => 'Abdulrehman',
+          'Age' => '06',
+          'Last Name' => 'Kharadi',
+          'Saving' => '1000',
+          'DOB' => '11/10/2011'
+        };
+$VAR1 = {
+          'First Name' => 'Fatemabibi',
+          'DOB' => '02/09/2008',
+          'Last Name' => 'Kharadi',
+          'Age' => '09',
+          'Saving' => '2000'
+        };
+Total Saving is : 33000

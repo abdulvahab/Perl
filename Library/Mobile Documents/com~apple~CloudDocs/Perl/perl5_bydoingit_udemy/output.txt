@@ -1,0 +1,20 @@
+First Name: Abdulvahab
+Last Name: Kharadi
+DOB: 25/07/1981
+Age: 37
+
+First Name: Musarratbanu
+Last Name: Kharadi
+DOB: 05/01/1984
+Age: 34
+
+First Name: Abdulrehman
+Last Name: Kharadi
+DOB: 11/10/2011
+Age: 06
+
+First Name: Fatemabibi
+Last Name: Kharadi
+DOB: 02/09/2008
+Age: 09
+
